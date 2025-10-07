@@ -1,1 +1,1 @@
-# Miigraine Treatment Analysis for Health Econometrics
+# Migraine Treatment Analysis
